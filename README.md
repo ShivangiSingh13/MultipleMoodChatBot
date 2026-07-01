@@ -208,12 +208,4 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 ---
 
-## 👩‍💻 Author
-
-**Shivangi**
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
-
----
-
 > *Built with curiosity, caffeine, and the occasional roast from the Savage Roaster. 😈*
